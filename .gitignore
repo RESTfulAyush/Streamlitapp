@@ -1,0 +1,84 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+.env/
+
+# Distribution/packaging files
+*.egg-info/
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Streamlit files
+.streamlit/
+
+# VSCode
+.vscode/
+
+# JetBrains (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Emacs
+*~
+.#*
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.orig
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+
+# Dependency management files
+Pipfile.lock
+poetry.lock
+pip-wheel-metadata/
+
+# pytest cache files
+.pytest_cache/
+
+# Coverage directory
+.coverage
+coverage.xml
+
+# Node.js dependencies
+node_modules/
+
+# Yarn
+.yarn/
+yarn.lock
+
+# Model files
+*.h5
+*.ckpt
+*.pt
+
+# Data files
+*.csv
+*.json
+*.tsv
+*.dat
+*.npy
